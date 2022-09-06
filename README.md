@@ -18,4 +18,4 @@
 
 # プロジェクト試演
 - 試演動画(下記の画像をクリックするとユーチューブに移動します)</br></br>
-[![시연](projects/pino-main.png)](https://www.youtube.com/watch？v=uVEzDbSvVJA)
+[![시연](projects/pino-main.png)](https://www.youtube.com/watch?v=uVEzDbSvVJA)
