@@ -8,7 +8,7 @@
 - <b>DBMS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Oracle
 - <b>Tool</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Eclipse
 - <b>Framework</b>&nbsp;&nbsp;&nbsp;&nbsp;: Spring
-- <b>業務内容</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 元職員であるピノソフトに新入社員が入社すると人事プロジェクトを2週間実習することになるが、この部分に対する説明と完成モデルが必要で作られ、職員が派遣を各自が出ると装備を簡単に把握できるように機能を一緒に入れて作ったウェブサイトだ。 (http://www.pinoinsa.com/)訪問用idはuser、pwは1234
+- <b>業務内容</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 元職員であるピノソフトに新入社員が入社すると人事プロジェクトを2週間実習することになるが、この部分に対する説明と完成モデルが必要で作られ、職員が派遣を各自が出ると装備を簡単に把握できるように機能を一緒に入れて作ったウェブサイトだ。 (http://www.pinoinsa.com/) 訪問用idはuser、pwは1234
 
 &nbsp;&nbsp;&nbsp;<img src="projects/pino.png" width="400">
 # プロジェクト概要
