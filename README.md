@@ -12,8 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;<img src="projects/pino.png" width="400">
 # プロジェクト概要
-- &nbsp;&nbsp;&nbsp;<img src="projects/p1.png" width="800">
-- &nbsp;&nbsp;&nbsp;<img src="projects/p2.png" width="800">
+- &nbsp;&nbsp;&nbsp;<img src="projects/p1-j.png" width="800">
+- &nbsp;&nbsp;&nbsp;<img src="projects/p2-j.png" width="800">
 - &nbsp;&nbsp;&nbsp;<img src="projects/p4.png" width="800">
 
 # プロジェクト試演
